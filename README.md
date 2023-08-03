@@ -58,13 +58,13 @@ Here's a list of available commands:
 
 - `/start`: Start the bot.
 - `/help`: See the list of available commands.
-- `/nasa`: Get the daily photo from NASA API.
+- `/nasa`: Get the daily photo from NASA API. ![nasa api](photos/nasa.png)
 - `/generateimg`: Generate an image from text using the Hugging Face texttoimage pretrained model.
-- `/generatevid`: Generate a video from text using the Hugging Face texttovidoe pretrained model.
+- `/generatevid`: Generate a video from text using the Hugging Face texttovidoe pretrained model.![dog photo and video](photos/dog.png)
 - `/askgpt`: Use OpenAI's ChatGPT to answer your messages.
 - `/news`: Get news for specific topics, use `/help` command for detailed info.
 - `/diary`: Write down your day, and the machine learning model will understand your mood and store the data.
-- `/mymood`: See your stored mood data.
+- `/mymood`: See your stored mood data.![mood graph](photos/mood.png)
 
 
 ## Contributing
