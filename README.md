@@ -31,7 +31,7 @@ This Telegram bot is designed to provide a range of exciting and useful function
 3. Set up necessary API keys:
 
    - Get API keys for Hugging Face, NASA, newsapi, and OpenAI's GPT-3 API.
-   - Create a `.env` file and add the keys in the following format:
+   - Fill the keys in tokens.py file:
 
    ```
    HUGGINGFACE_TOKEN=your_hugging_face_api_token
