@@ -8,7 +8,6 @@ A versatile Telegram bot with AI capabilities, capable of generating images and 
 - [Usage](#usage)
 - [Commands](#commands)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -70,7 +69,3 @@ Here's a list of available commands:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to add, please create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
