@@ -1,8 +1,4 @@
-Sure! Here's a template for your GitHub README.md file for the Telegram bot project:
-
-# Telegram Bot Project
-
-![GitHub repo size](https://img.shields.io/github/repo-size/your_username/your_repo_name)
+# Telegram-ChatBot-with-Sentiment-Analysis
 
 A versatile Telegram bot with AI capabilities, capable of generating images and videos from text, connecting to OpenAI's ChatGPT, fetching news, sentiment analysis, and more!
 
